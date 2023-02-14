@@ -1,0 +1,1 @@
+from .base import SOURCE_1_URL, SOURCE_2_URL
